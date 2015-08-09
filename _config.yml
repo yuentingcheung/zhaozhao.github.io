@@ -68,4 +68,6 @@ theme: ghost-casper
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: https://github.com/zhaozhao/zhaozhao.github.io.git
+  branch: master
